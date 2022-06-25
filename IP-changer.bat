@@ -3,7 +3,7 @@ color 1a
 chcp 65001
 mode con lines=30 cols=100
 title CHANGE IP TIME-RECORDER
-set T="Bluetooth Network Connection"
+set T="Ethernet"
 :start
 ECHO.
 ECHO 1. Change %T% to 192.168.31.1
